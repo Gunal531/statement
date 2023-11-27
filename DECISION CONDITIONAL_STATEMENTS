@@ -1,0 +1,13 @@
+# DECISION MAKING STATEMENTS / CONDITIONAL STATEMENTS 
+
+* Decision making statements helps us to transfer control from one statement to another statements.
+* The statements get executed based on the conditions.
+* Decision making statements use conditions similar to boolean expressions.
+* Conditional statements provides boolean values that is, TRUE or FALSE expressions.
+
+# In python there are 4 Conditional Statements namely :
+
+* if statement 
+* if-else statement
+* if-elif-else statement
+* nested-if statement .
